@@ -22,8 +22,8 @@ resources:
   phototitle: Uczta
   description: Sołtys ucztujący za sołtysowe.
 - src: sylwetka-soltysa/1006.jpg
-  phototitle: Sołtys udający Stachursky'ego
-  description: "Jeszcze tylko chwila... jeszcze tylko moment..." tak powiedział Sołtys.
+  phototitle: Sołtys udający Stachurskiego
+  description: '"Jeszcze tylko chwila... jeszcze tylko moment..." tak powiedział Sołtys.'
 - src: sylwetka-soltysa/1008.jpg
   phototitle: Sołtys wielbiący Papieża-Polaka
   description: O 21:37 Sołtys nie wahał się wziąć zdjęcie papieża, aby pokazać swoje uwielbienie dla jego osoby.
@@ -38,16 +38,16 @@ resources:
   description: Razem obalali chałapstwo. Legenda głosi, że został zamknięty w garażu celowo (przez Sołtysa).
 - src: sylwetka-soltysa/1011_1.JPG
   phototitle: Obecny radny sołecki (Alvaro) oraz Eugenio (Eugenio)
-  description: 'Panowie znają się nie tylko z pracy w sołectwie, ale również z planu filmowego "Andrzej Kiełbasa III".'
+  description: Panowie znają się nie tylko z pracy w sołectwie, ale również z planu filmowego Andrzej Kiełbasa III.
 - src: sylwetka-soltysa/1012_1.jpg
-  phototitle: Fan spotyka sołtysa na planie filmowym
+  phototitle: Fan spotyka sołtysa na planie filmowym 21313
   description: Sołtys nie ukrywa radości, że jego fanowie przybyli tak licznie.
 - src: sylwetka-soltysa/1013.JPG
   phototitle: Fanki przybywają lawinowo
   description: Sołtys nie może opędzić się od fanek. Na plan reklamy Reginy przybyło ich tysiące.
 - src: sylwetka-soltysa/1013_1.JPG
   phototitle: Fan wraz z Sołysem po nagraniu reklamy
-  description: "Nie wierzę, że spotkałem Sołtysa" - mówi Piotr B.
+  description: '"Nie wierzę, że spotkałem Sołtysa" - mówi Piotr B.'
 - src: sylwetka-soltysa/1014.JPG
   phototitle: Młode pary odwiedzają Sołtysa
   description: Młoda para cieszy się, że może spotkać się z Sołtysem.
@@ -68,7 +68,7 @@ resources:
   description: Liczba grupa fanów, która przybyła na spotkanie ze Sołtysem doczekała się wspólnego zdjęcia.
 - src: sylwetka-soltysa/9999.gif
   phototitle: Sołtys zażywający środki odurzające
-  description: "Czasem trudno wytrzymać w tym wyścigu szczurów. Wszystko jest dla ludzi" - powiedział Sołtys.
+  description: '"Czasem trudno wytrzymać w tym wyścigu szczurów. Wszystko jest dla ludzi" - powiedział Sołtys.'
 - src: sylwetka-soltysa/1100.jpg
   phototitle: Sołtys z ważnym dekretem
   description: Sołtys nie boi się trudnych wyzwań i wydaje rozporządzenia tak, aby mieszkańcom wsi żyło się lepiej.
