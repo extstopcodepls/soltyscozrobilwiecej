@@ -38,7 +38,7 @@ resources:
   description: Razem obalali chałapstwo. Legenda głosi, że został zamknięty w garażu celowo (przez Sołtysa).
 - src: sylwetka-soltysa/1011_1.JPG
   phototitle: Obecny radny sołecki (Alvaro) oraz Eugenio (Eugenio)
-  description: Panowie znają się nie tylko z pracy w sołectwie, ale również z planu filmowego "Andrzej Kiełbasa III".
+  description: 'Panowie znają się nie tylko z pracy w sołectwie, ale również z planu filmowego "Andrzej Kiełbasa III".'
 - src: sylwetka-soltysa/1012.jpg
   phototitle: Fan spotyka sołtysa na planie filmowym
   description: Sołtys nie ukrywa radości, że jego fanowie przybyli tak licznie.
