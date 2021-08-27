@@ -6,7 +6,7 @@ theme = 'autophugo'
 [params]
     # Meta
     description = "Wydarzenia z kadencji `Młodego Sołtysa`"
-    keywords = "sołtys, trynosy-osiedle, trynosy, pożegnanie, pożegnanie sołtysa"
+    keywords = "sołtys, trynosy-osiedle, trynosy, pożegnanie, pożegnanie sołtysa, bloki"
     #msvalidate = ""
     #googlesiteverification = ""
     #thumb_width = 480
