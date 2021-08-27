@@ -29,10 +29,10 @@ resources:
   description: 'O 21:37 Sołtys nie wahał się wziąć zdjęcie papieża, aby pokazać swoje uwielbienie dla jego osoby'
 - src: sylwetka-soltysa/1009.jpg
   phototitle: Sołtys i Pierwsza Dama (Sołtysowa)
-  description: Zawsze przy jego boku
+  description: Zawsze przy jego boku.
 - src: sylwetka-soltysa/1010.JPG
   phototitle: Brat Sołtysa
-  description: Prywatnie jego brat, oficjalnie jego ochroniarz
+  description: Prywatnie jego brat, oficjalnie jego ochroniarz.
 - src: sylwetka-soltysa/1011.JPG
   phototitle: Były radny sołecki
   description: Razem obalali chałapstwo. Legenda głosi, że został zamknięty w garażu celowo (przez Sołtysa).
