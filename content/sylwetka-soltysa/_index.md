@@ -5,28 +5,28 @@ draft: false
 resources:
 - src: sylwetka-soltysa/1000.jpg
   phototitle: Sołtys
-  description: Elegancki ubiór Sołtysa to jego codzienne ubranie
+  description: Elegancki ubiór Sołtysa to jego codzienne ubranie.
 - src: sylwetka-soltysa/1001.jpg
   phototitle: Wybranka Sołtysa
-  description: Poznana na urodzinach koleżanki Weroniki B bo RODO
+  description: Poznana na urodzinach koleżanki Weroniki B bo RODO.
 - src: sylwetka-soltysa/1002.JPG
   phototitle: Sołtys i znany aktor
-  description: Podczas nagrania reklamy Regina na plan wpadł znany aktor aby dać cenne wskazówki
+  description: Podczas nagrania reklamy Regina na plan wpadł znany aktor aby dać cenne wskazówki.
 - src: sylwetka-soltysa/1003.JPG
   phototitle: Reklama Reginy
-  description: Wycinek z nagrania reklamy
+  description: Wycinek z nagrania reklamy.
 - src: sylwetka-soltysa/1004.JPG
   phototitle: Reklama Reginy cz.2
-  description: Obie rolki Sołtys mógł zabrać ze sobą
+  description: Obie rolki Sołtys mógł zabrać ze sobą.
 - src: sylwetka-soltysa/1005.jpg
   phototitle: Uczta
-  description: Sołtys ucztujący za sołtysowe
+  description: Sołtys ucztujący za sołtysowe.
 - src: sylwetka-soltysa/1006.jpg
   phototitle: Sołtys udający Stachursky'ego
-  description: '"Jeszcze tylko chwila... jeszcze tylko moment..." tak powiedział Sołtys'
+  description: "Jeszcze tylko chwila... jeszcze tylko moment..." tak powiedział Sołtys.
 - src: sylwetka-soltysa/1008.jpg
   phototitle: Sołtys wielbiący Papieża-Polaka
-  description: 'O 21:37 Sołtys nie wahał się wziąć zdjęcie papieża, aby pokazać swoje uwielbienie dla jego osoby'
+  description: O 21:37 Sołtys nie wahał się wziąć zdjęcie papieża, aby pokazać swoje uwielbienie dla jego osoby.
 - src: sylwetka-soltysa/1009.jpg
   phototitle: Sołtys i Pierwsza Dama (Sołtysowa)
   description: Zawsze przy jego boku.
@@ -47,7 +47,7 @@ resources:
   description: Sołtys nie może opędzić się od fanek. Na plan reklamy Reginy przybyło ich tysiące.
 - src: sylwetka-soltysa/1013_1.JPG
   phototitle: Fan wraz z Sołysem po nagraniu reklamy
-  description: '"Nie wierzę, że spotkałem Sołtysa" - mówi Piotr B'
+  description: "Nie wierzę, że spotkałem Sołtysa" - mówi Piotr B.
 - src: sylwetka-soltysa/1014.JPG
   phototitle: Młode pary odwiedzają Sołtysa
   description: Młoda para cieszy się, że może spotkać się z Sołtysem.
@@ -68,7 +68,7 @@ resources:
   description: Liczba grupa fanów, która przybyła na spotkanie ze Sołtysem doczekała się wspólnego zdjęcia.
 - src: sylwetka-soltysa/9999.gif
   phototitle: Sołtys zażywający środki odurzające
-  description: '"Czasem trudno wytrzymać w tym wyścigu szczurów. Wszystko jest dla ludzi" - powiedział Sołtys.'
+  description: "Czasem trudno wytrzymać w tym wyścigu szczurów. Wszystko jest dla ludzi" - powiedział Sołtys.
 - src: sylwetka-soltysa/1100.jpg
   phototitle: Sołtys z ważnym dekretem
   description: Sołtys nie boi się trudnych wyzwań i wydaje rozporządzenia tak, aby mieszkańcom wsi żyło się lepiej.
