@@ -30,7 +30,7 @@ resources:
 - src: sylwetka-soltysa/1009.jpg
   phototitle: Sołtys i Pierwsza Dama (Sołtysowa)
   description: Zawsze przy jego boku.
-- src: sylwetka-soltysa/1010.JPG
+- src: sylwetka-soltysa/1010_1.JPG
   phototitle: Brat Sołtysa
   description: Prywatnie jego brat, oficjalnie jego ochroniarz.
 - src: sylwetka-soltysa/1011.JPG
@@ -39,7 +39,7 @@ resources:
 - src: sylwetka-soltysa/1011_1.JPG
   phototitle: Obecny radny sołecki (Alvaro) oraz Eugenio (Eugenio)
   description: 'Panowie znają się nie tylko z pracy w sołectwie, ale również z planu filmowego "Andrzej Kiełbasa III".'
-- src: sylwetka-soltysa/1012.jpg
+- src: sylwetka-soltysa/1012_1.jpg
   phototitle: Fan spotyka sołtysa na planie filmowym
   description: Sołtys nie ukrywa radości, że jego fanowie przybyli tak licznie.
 - src: sylwetka-soltysa/1013.JPG
