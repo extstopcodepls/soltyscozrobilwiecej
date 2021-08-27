@@ -68,7 +68,7 @@ resources:
   description: Liczba grupa fanów, która przybyła na spotkanie ze Sołtysem doczekała się wspólnego zdjęcia.
 - src: sylwetka-soltysa/9999.gif
   phototitle: Sołtys zażywający środki odurzające
-  description: '"Czasem trudno wytrzymać w tym wyścigu szczurów. Wszystko jest dla ludzi" - powiedział Sołtys'.
+  description: '"Czasem trudno wytrzymać w tym wyścigu szczurów. Wszystko jest dla ludzi" - powiedział Sołtys.'
 - src: sylwetka-soltysa/1100.jpg
   phototitle: Sołtys z ważnym dekretem
   description: Sołtys nie boi się trudnych wyzwań i wydaje rozporządzenia tak, aby mieszkańcom wsi żyło się lepiej.
